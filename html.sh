@@ -5,23 +5,23 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 white='\033[1;37m'
 clear
-echo -e $blue" __  __    ______   __    __     __            ______   __     __         ______    "
-echo -e $green"/\ \_\ \  /\__  _\ /\ \_./  \   /\ \          /\  ___\ /\ \   /\ \       /\  ___\   "
-echo -e $purple"\ \  __ \ \/_/\ \/ \ \ \-./\ \  \ \ \____     \ \  __\ \ \ \  \ \ \____  \ \  __\   "
-echo -e $cyan" \ \_\ \_\   \ \_\  \ \_\ \ \_\  \ \_____\     \ \_\    \ \_\  \ \_____\  \ \_____\ "
-echo -e $red"  \/_/\/_/    \/_/   \/_/  \/_/   \/_____/      \/_/     \/_/   \/_____/   \/_____/ "$green
-echo -e $white
-read -p '[+] File Name : ' SangDz
-read -p '[+] Title : ' SangIT
-read -p '[+] Team : ' jkk
+echo -e $blue"░██████╗░█████╗░███╗░░██╗░██████╗░"
+echo -e $green██╔════╝██╔══██╗████╗░██║██╔════╝░"
+echo -e $purple╚█████╗░███████║██╔██╗██║██║░░██╗░"
+echo -e $cyan"░╚═══██╗██╔══██║██║╚████║██║░░╚██╗"
+echo -e $red"██████╔╝██║░░██║██║░╚███║╚██████╔╝"
+echo -e $white╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░  "
+read -p '[+] File Name : ' nama
+read -p '[+] Title : ' title
+read -p '[+] Team : ' tim
 read -p '[+] Avarta (link) : ' gmbr
-read -p '[+] Nhạc mp3 ko bắt buộc (link) : ' sound
+read -p '[+] Nhạc (link) : ' sound
 read -p '[+] Hacked By : ' hack
 read -p '[+] Thanks : ' team
-read -p '[+] tin nhắn : ' mssg1
-read -p '[+] tin nhắn: ' mssg2
-read -p '[+] tin nhắn: ' mssg3
-read -p '[+] tin nhắn: ' mssg4
+read -p '[+] mssg 1 : ' mssg1
+read -p '[+] mssg 2 : ' mssg2
+read -p '[+] mssg 3 : ' mssg3
+read -p '[+] mssg 4 : ' mssg4
 echo
 echo -e $putih'['$cyan'•'$white'] Loading.........'
 sleep 10
