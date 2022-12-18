@@ -11,7 +11,7 @@ Deface Termux Menggunakan Metode WebDav + Live Target
 
 
 <details open>
-  <summary><strong> Install Package + Run Script (AmmarrBN)</strong></summary>
+  <summary><strong> Cài đặt Gói + Chạy Tập lệnh (transang407)</strong></summary>
 
   ```bash
   pkg update && pkg upgrade
