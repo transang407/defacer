@@ -13,7 +13,7 @@ echo -e $red"  \/_/\/_/    \/_/   \/_/  \/_/   \/_____/      \/_/     \/_/   \/_
 echo -e $white
 read -p '[+] File Name : ' SangDz
 read -p '[+] Title : ' SangIT
-read -p '[+] Team : ' Team Của Bạn
+read -p '[+] Team : ' jkk
 read -p '[+] Avarta (link) : ' gmbr
 read -p '[+] Nhạc mp3 ko bắt buộc (link) : ' sound
 read -p '[+] Hacked By : ' hack
